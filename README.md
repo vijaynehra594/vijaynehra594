@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vijaynehra594&label=Profile%20views&color=0e75b6&style=flat" alt="vijaynehra594" /> </p>
 
-<h3 align="left">Connect with me on : <a href="https://www.linkedin.com/in/vijay-web-developer-847b90249"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a></h3>
+<h3 align="left">Connect with me on : <a href="https://www.linkedin.com/in/vijay-web-developer-847b90249"><img width="20" height="20" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a></h3>
 <p align="center">
 </p>
 
