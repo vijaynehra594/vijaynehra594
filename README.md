@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Nehra</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">💻 A full Stack developer from India 💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vijaynehra594&label=Profile%20views&color=0e75b6&style=flat" alt="vijaynehra594" /> </p>
 
@@ -7,10 +7,11 @@
 <p align="center">
 </p>
 
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on full stack projects
-- 📫 How to reach me https://www.linkedin.com/in/vijay-web-developer-847b90249
+<p align="center">👀 I’m interested in Website Development </p>
+<p align="center">🌱 I’m currently learning MERN Stack </p>
+<p align="center">💞️ I’m looking to collaborate on full stack projects </p>
+<p align="center">📫 How to reach me https://www.linkedin.com/in/vijay-web-developer-847b90249 </p>
+
 
 <!---
 vijaynehra594/vijaynehra594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
